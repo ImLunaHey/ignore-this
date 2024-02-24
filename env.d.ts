@@ -4,4 +4,5 @@ interface CloudflareEnv {
   //
   // KV Example:
   // MY_KV: KVNamespace
+  db: D1Database;
 }

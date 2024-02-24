@@ -55,3 +55,10 @@ compatibility_flags = ["nodejs_compat"]
 # [[kv_namespaces]]
 # binding = "MY_KV"
 # id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+
+# Databases Example:
+[[d1_databases]]
+binding = "db"
+database_name = "mafia-game"
+database_id = "42c66678-fd78-4ca4-83b2-685a87d31dca"
